@@ -1,16 +1,15 @@
-### Hi there 👋
+# Flavio Del Grosso
 
-<!--
-**flaviodelgrosso/flaviodelgrosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✍🏼 About me 
 
-Here are some ideas to get you started:
+I am a web developer mainly experienced in JavaScript, React and REST API applications with Node.js.
+I can apply my knowledge and skills for continuous improvement.
+I love innovations, experimental activities and doing something good for people.
+In my professional life art and love for music are additional engines in my developing workflow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏼‍💻 Skills
+JavaScript, TypeScript, HTML5, CSS & SASS, React.js, Next.js, Node.js, Rest APIs, Versioning (git)
+
+## Contact Me 
+
+[LinkedIn](https://www.linkedin.com/in/flavio-del-grosso)
