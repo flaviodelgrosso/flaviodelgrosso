@@ -8,7 +8,9 @@ I love innovations, experimental activities and doing something good for people.
 In my professional life art and love for music are additional engines in my developing workflow.
 
 ## 👨🏼‍💻 Skills
-JavaScript, TypeScript, HTML5, CSS & SASS, React.js, Next.js, Node.js, Rest APIs, Versioning (git)
+### Spoken Languages 👅: JavaScript, TypeScript, HTML5, CSS & SASS
+
+##### Node.js, React.js, Next.js, Electron, TailwindCSS, MaterialUI, Bootstrap,MySQL, Microsoft SQL Server, MongoDB, Docker, Firebase
 
 ## Contact Me 
 
