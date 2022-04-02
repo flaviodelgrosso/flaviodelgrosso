@@ -17,6 +17,10 @@ In my professional life art and love for music are additional engines in my deve
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/> 
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="typescript"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
@@ -25,9 +29,9 @@ In my professional life art and love for music are additional engines in my deve
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
+  <a href="https://sass-lang.com/" target="_blank">
+    <img src="https://img.shields.io/badge/sass-purple.svg?style=for-the-badge&logo=sass&logoColor=white"
+      alt="sass"/>
   </a>
 </p>
 
@@ -50,6 +54,14 @@ In my professional life art and love for music are additional engines in my deve
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
       alt="webpack"/>
   </a>
+  <a href="https://mui.com/" target="_blank">
+    <img src="https://img.shields.io/badge/material ui-blue.svg?style=for-the-badge&logo=mui&logoColor=white"
+      alt="material-ui"/>
+  </a>
+  <a href="https://tailwindcss.com/docs/installation" target="_blank">
+    <img src="https://img.shields.io/badge/tailwind-61DAFA.svg?style=for-the-badge&logo=tailwindcss&logoColor=black"
+      alt="tailwindcss"/>
+  </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -69,6 +81,14 @@ In my professional life art and love for music are additional engines in my deve
 
 <h3 align="center">Database</h3>
 <p align="center">
+  <a href="https://www.mysql.com/it/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-003B57.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mssql server-red.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+      alt="mssql"/> 
+  </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
@@ -88,9 +108,9 @@ In my professional life art and love for music are additional engines in my deve
 
 <h3 align="center">Testing</h3>
 <p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
+  <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/jest-43B02A.svg?style=for-the-badge&logo=jest&logoColor=white"
+      alt="jest" /> 
   </a> 
 </p>
 
