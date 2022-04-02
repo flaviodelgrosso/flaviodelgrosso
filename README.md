@@ -30,7 +30,7 @@ In my professional life art and love for music are additional engines in my deve
       alt="css3"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/sass-violet.svg?style=for-the-badge&logo=sass&logoColor=white"
+    <img src="https://img.shields.io/badge/sass-violet.svg?style=for-the-badge&logo=sass&logoColor=black"
       alt="sass"/>
   </a>
 </p>
