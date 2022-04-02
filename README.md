@@ -30,7 +30,7 @@ In my professional life art and love for music are additional engines in my deve
       alt="css3"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/sass-purple.svg?style=for-the-badge&logo=sass&logoColor=white"
+    <img src="https://img.shields.io/badge/sass-violet.svg?style=for-the-badge&logo=sass&logoColor=white"
       alt="sass"/>
   </a>
 </p>
@@ -109,12 +109,15 @@ In my professional life art and love for music are additional engines in my deve
   </a>
 </p>
 
-<h3 align="center">Testing</h3>
+<h3 align="center">Testing & Code Analyzers</h3>
 <p align="center"> 
   <a href="https://jestjs.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/jest-43B02A.svg?style=for-the-badge&logo=jest&logoColor=white"
       alt="jest" /> 
   </a> 
+  <a href="https://eslint.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ESLint-7952B3.svg?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint" />
+  </a>
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
