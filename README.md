@@ -68,7 +68,7 @@ In my professional life art and love for music are additional engines in my deve
   </a>
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">Backend & Full-stack</h3>
 <p align="center">
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
@@ -77,6 +77,9 @@ In my professional life art and love for music are additional engines in my deve
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
       alt="express" />
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"
+      alt="next.js" />
 </p>
 
 <h3 align="center">Database</h3>
@@ -99,7 +102,7 @@ In my professional life art and love for music are additional engines in my deve
   </a> 
 </p>
 
-<h3 align="center">Cloud & Hosting:</h3>
+<h3 align="center">Cloud & Hosting</h3>
 <p align="center">
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
@@ -129,7 +132,7 @@ In my professional life art and love for music are additional engines in my deve
   </a>
 </p>
 
-<h3 align="center">Preferred IDEs:</h3>
+<h3 align="center">Preferred IDEs</h3>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
