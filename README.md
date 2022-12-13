@@ -3,10 +3,9 @@
 <h2 align="center">✍🏼 About me</h3>
 
 <p align="center">
-I am a web developer mainly experienced in JavaScript, React and REST API applications powered by Node.js.
-I can apply my knowledge and skills for continuous improvement.
-I love innovations, experimental activities and doing something good for people.
-In my professional life art and love for music are additional engines in my developing workflow.
+I am a software engineer mainly experienced in JavaScript world, specially in building UIs with React and developing backend code in Node.js environment.
+I can apply my knowledge and skills for continuous improvement. I love innovations, experimental activities and doing something good for people.
+In my professional life, art and love for music are additional engines in my developing workflow.
 </p>
 
 ---
