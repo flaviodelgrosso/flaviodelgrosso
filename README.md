@@ -1,8 +1,12 @@
-<h1 align="center">Hello! 👋, I'm Flavio</h1>
-<h3 align="center">Welcome in my GitHub space!</h3>
+Hi 👋 My name is Flavio Del Grosso 
+==================================  
+Senior Software Engineer
+------------------------  
+As a frontend engineer and JavaScript developer, I strive to create engaging and user-friendly digital experiences for clients and end-users. I take pride in staying up-to-date with the latest industry trends and technologies, and continually expanding my skill set to deliver innovative solutions that meet the evolving needs of the marketplace.  
 
-Visit my personal website [flaviodelgrosso.com](https://flaviodelgrosso.com)
-
+* 🌍  I'm based in Italy
+* 🖥️  See my personal website at [flaviodelgrosso.com](http://flaviodelgrosso.com)
+* 🧠  I'm currently in love with learning Rust 🦀
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviodelgrosso&show_icons=true&theme=onedark&rank_icon=github" />
 
