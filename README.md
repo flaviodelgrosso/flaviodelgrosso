@@ -10,7 +10,7 @@ As a frontend engineer and JavaScript developer, I strive to create engaging and
 
 ### Some languages and technologies I use
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,express,babel,bash,bootstrap,bun,docker,electron,firebase,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,nextjs,reactivex,rust,sass,spring,tailwind,tauri,vercel,vite,vitest,webpack&theme=light)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,express,babel,bash,bootstrap,bun,docker,electron,firebase,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,nextjs,reactivex,rust,sass,spring,tailwind,tauri,vercel,vite,vitest,webpack&theme=light)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviodelgrosso&show_icons=true&theme=onedark&rank_icon=github" />
 
