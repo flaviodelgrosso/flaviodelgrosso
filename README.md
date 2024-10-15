@@ -12,6 +12,6 @@ As a frontend engineer and JavaScript developer, I strive to create engaging and
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,angular,nodejs,express,babel,bash,bootstrap,bun,docker,electron,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,nextjs,reactivex,rust,sass,spring,tailwind,tauri,aws,gcp,firebase,vercel,vite,vitest,webpack,npm,pnpm&theme=light)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=flaviodelgrosso&show_icons=true&theme=onedark&rank_icon=github" />
+![Flavio Del Grosso's GitHub stats](https://github-readme-stats.vercel.app/api?username=flaviodelgrosso&show_icons=true&theme=dracula&icon=github&hide=issues,contribs&hide_rank=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodelgrosso&size_weight=0.5&count_weight=0.5&hide=dockerfile,ejs,handlebars,procfile&layout=compact&langs_count=8" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodelgrosso&size_weight=0.5&count_weight=0.5&hide=dockerfile,ejs,css,scss,html,handlebars,procfile&layout=compact&langs_count=6&theme=dracula)
