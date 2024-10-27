@@ -5,8 +5,10 @@ Senior Software Engineer
 As a frontend engineer and JavaScript developer, I strive to create engaging and user-friendly digital experiences for clients and end-users. I take pride in staying up-to-date with the latest industry trends and technologies, and continually expanding my skill set to deliver innovative solutions that meet the evolving needs of the marketplace.  
 
 * 🌍  I'm based in Italy
-* 🖥️  See my personal website at [flaviodelgrosso.com](http://flaviodelgrosso.com)
+* 🖥️  See my personal website [here](http://flaviodelgrosso.com)
 * 🧠  I'm currently in love with learning Rust 🦀
+* ⭐ ![GitHub User's stars](https://img.shields.io/github/stars/flaviodelgrosso?style=flat-square)
+
 
 ### Some languages and technologies I use
 
