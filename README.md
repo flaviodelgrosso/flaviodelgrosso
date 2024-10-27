@@ -7,7 +7,8 @@ As a frontend engineer and JavaScript developer, I strive to create engaging and
 * 🌍  I'm based in Italy
 * 🖥️  See my personal website [here](http://flaviodelgrosso.com)
 * 🧠  I'm currently in love with learning Rust 🦀
-* ⭐ ![GitHub User's stars](https://img.shields.io/github/stars/flaviodelgrosso?style=flat-square)
+
+![GitHub User's stars](https://img.shields.io/github/stars/flaviodelgrosso?style=social)
 
 
 ### Some languages and technologies I use
