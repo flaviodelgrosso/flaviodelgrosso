@@ -2,7 +2,14 @@ Hi 👋 My name is Flavio Del Grosso
 ==================================  
 Senior Software Engineer
 ------------------------  
-As a frontend engineer and JavaScript developer, I strive to create engaging and user-friendly digital experiences for clients and end-users. I take pride in staying up-to-date with the latest industry trends and technologies, and continually expanding my skill set to deliver innovative solutions that meet the evolving needs of the marketplace.  
+As a web developer and JavaScript Engineer, I am passionate about crafting engaging, user-friendly digital experiences that align with modern industry trends.
+
+My commitment to continuous learning ensures I stay at the forefront of emerging technologies, enabling me to deliver robust, scalable, and secure solutions that drive business growth and enrich user experiences.
+
+I thrive in environments that value collaboration and inclusivity, fostering creativity and innovation. Beyond my expertise in tech, my background as a professional classical pianist and music educator deeply influences my approach to problem-solving and design, blending technical precision with artistic sensitivity.
+
+I really love Albert Einstein’s words that resonate with me: "I often think in music, I live my daydreams in music, I see my life in terms of music."
+This philosophy inspires my work, as I integrate structure and creativity into every project.
 
 * 🌍  I'm based in Italy
 * 🖥️  See my personal website [here](http://flaviodelgrosso.com)
