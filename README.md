@@ -17,7 +17,7 @@ This philosophy inspires my work, as I integrate structure and creativity into e
 
 ### Some languages and technologies I use
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,angular,nodejs,express,babel,bash,bootstrap,bun,docker,electron,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,nextjs,reactivex,rust,sass,fastify,tailwind,tauri,aws,gcp,firebase,vercel,vite,vitest,webpack,npm,pnpm&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,rust,react,nextjs,angular,nodejs,express,babel,bash,bootstrap,redux,bun,docker,electron,tauri,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,reactivex,spring,tailwind,aws,gcp,vercel,vite,vitest,webpack,npm,pnpm&theme=light)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/flaviodelgrosso?style=social)
 
