@@ -1,24 +1,43 @@
-Hi 👋 My name is Flavio Del Grosso 
-==================================  
-Senior Software Engineer
-------------------------  
-As a web developer and JavaScript Engineer, I am passionate about crafting engaging, user-friendly digital experiences that align with modern industry trends.
+# 👋 Hi, I'm Flavio Del Grosso
 
-My commitment to continuous learning ensures I stay at the forefront of emerging technologies, enabling me to deliver robust, scalable, and secure solutions that drive business growth and enrich user experiences.
+### 🎯 Senior Software Engineer
 
-I thrive in environments that value collaboration and inclusivity, fostering creativity and innovation. Beyond my expertise in tech, my background as a professional classical pianist and music educator deeply influences my approach to problem-solving and design, blending technical precision with artistic sensitivity.
+---
 
-I really love Albert Einstein’s words that resonate with me: "I often think in music, I live my daydreams in music, I see my life in terms of music."
-This philosophy inspires my work, as I integrate structure and creativity into every project.
+As a **web developer** and **JavaScript engineer**, I am deeply passionate about crafting engaging, intuitive digital experiences aligned with modern industry trends. My dedication to **continuous learning** helps me stay at the forefront of emerging technologies.
 
-* 🌍  I'm based in Italy
-* 🖥️  See my personal website [here](http://flaviodelgrosso.com)
-* 🧠  I'm currently in love with learning Rust 🦀
+I thrive in **collaborative, inclusive environments** where I can contribute to a healthy and stimulating work culture. I seek out opportunities to work with inspiring individuals — sharing knowledge, supporting colleagues, and achieving common goals together. My aspiration is to be part of **quality-oriented teams** that are driven by high standards and a collective pursuit of excellence.
 
-### Some languages and technologies I use
+One of my professional goals is to **increase my involvement in open source**. I find genuine fulfillment in contributing to shared knowledge and building tools that benefit the wider community.
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,rust,react,nextjs,angular,nodejs,express,babel,bash,bootstrap,redux,bun,docker,electron,tauri,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,reactivex,spring,tailwind,aws,gcp,vercel,vite,vitest,webpack,npm,pnpm&theme=light)
+---
+
+🎼 **Beyond Tech:**
+My background as a **classical pianist** and **music educator** informs my approach to design and problem-solving — blending **technical precision** with **artistic sensitivity**.
+
+> *"I often think in music. I live my daydreams in music. I see my life in terms of music."*
+> — *Albert Einstein*
+
+This philosophy inspires both my personal and professional life, infusing **structure and creativity** into everything I do.
+
+---
+
+### 📌 Quick Facts
+
+* 🌍 Based in **Italy**
+* 🖥️ Personal website: [flaviodelgrosso.com](http://flaviodelgrosso.com)
+* 🧠 Currently diving deep into **Rust** 🦀
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,rust,react,nextjs,angular,nodejs,express,babel,bash,bootstrap,redux,bun,docker,electron,tauri,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,reactivex,spring,tailwind,aws,gcp,vercel,vite,vitest,webpack,npm,pnpm\&theme=light)
+
+---
+
+### 📊 GitHub Stats
 
 ![GitHub User's stars](https://img.shields.io/github/stars/flaviodelgrosso?style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodelgrosso&size_weight=0.5&count_weight=0.5&hide=dockerfile,ejs,css,scss,html,handlebars,procfile&layout=compact&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodelgrosso\&size_weight=0.5\&count_weight=0.5\&hide=dockerfile,ejs,css,scss,html,handlebars,procfile\&layout=compact\&langs_count=6\&theme=dracula)
