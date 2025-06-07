@@ -1,35 +1,43 @@
-# Hi 👋 My name is Flavio Del Grosso  
-## Senior Software Engineer
+# 👋 Hi, I'm Flavio Del Grosso
+
+### 🎯 Senior Software Engineer
 
 ---
 
-As a web developer and JavaScript engineer, I am deeply passionate about creating engaging and intuitive digital experiences aligned with modern industry trends. My commitment to continuous learning allows me to stay up to date with emerging technologies.
+As a **web developer** and **JavaScript engineer**, I am deeply passionate about crafting engaging, intuitive digital experiences aligned with modern industry trends. My dedication to **continuous learning** helps me stay at the forefront of emerging technologies.
 
-I succeed in environments that value collaboration and inclusivity, where I can actively contribute to a healthy and stimulating work culture. I constantly seek opportunities to collaborate with inspiring individuals, sharing knowledge and supporting colleagues to achieve common goals. My aspiration is to be part of quality-oriented teams, where each member is motivated to elevate standards and pursue exceptional results through a collaborative approach.
+I thrive in **collaborative, inclusive environments** where I can contribute to a healthy and stimulating work culture. I seek out opportunities to work with inspiring individuals, sharing knowledge, supporting colleagues, and achieving common goals together. My aspiration is to be part of **quality-oriented teams** that are driven by high standards and a collective pursuit of excellence.
 
-A key professional goal of mine is to increase my engagement in open source projects, as I genuinely love the fulfillment that comes from contributing to collectively shared resources.
-
-Beyond my experience in the tech industry, my background as a professional classical pianist and music educator deeply influences my approach to problem-solving and design, blending technical precision with artistic sensitivity.
-
-I particularly resonate with Albert Einstein’s words:  
-> "I often think in music. I live my daydreams in music. I see my life in terms of music."
-
-This philosophy inspires both my work and my life, integrating structure and creativity into everything I do.
+One of my professional goals is to **increase my involvement in open source**. I find genuine fulfillment in contributing to shared knowledge and building tools that benefit the wider community.
 
 ---
 
-- 🌍  I'm based in Italy  
-- 🖥️  See my personal website [here](http://flaviodelgrosso.com)  
-- 🧠  I'm currently in love with learning Rust 🦀  
+🎼 **Beyond Tech:**
+My background as a **classical pianist** and **music educator** informs my approach to design and problem-solving — blending **technical precision** with **artistic sensitivity**.
+
+> *"I often think in music. I live my daydreams in music. I see my life in terms of music."*
+> — *Albert Einstein*
+
+This philosophy inspires both my personal and professional life, infusing **structure and creativity** into everything I do.
 
 ---
 
-### Some languages and technologies I use
+### 📌 Quick Facts
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,rust,react,nextjs,angular,nodejs,express,babel,bash,bootstrap,redux,bun,docker,electron,tauri,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,reactivex,spring,tailwind,aws,gcp,vercel,vite,vitest,webpack,npm,pnpm&theme=light)
+* 🌍 Based in **Italy**
+* 🖥️ Personal website: [flaviodelgrosso.com](http://flaviodelgrosso.com)
+* 🧠 Currently diving deep into **Rust** 🦀
 
 ---
+
+### 🛠️ Tech Stack & Tools
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,rust,react,nextjs,angular,nodejs,express,babel,bash,bootstrap,redux,bun,docker,electron,tauri,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,reactivex,spring,tailwind,aws,gcp,vercel,vite,vitest,webpack,npm,pnpm\&theme=light)
+
+---
+
+### 📊 GitHub Stats
 
 ![GitHub User's stars](https://img.shields.io/github/stars/flaviodelgrosso?style=social)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodelgrosso&size_weight=0.5&count_weight=0.5&hide=dockerfile,ejs,css,scss,html,handlebars,procfile&layout=compact&langs_count=6&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviodelgrosso\&size_weight=0.5\&count_weight=0.5\&hide=dockerfile,ejs,css,scss,html,handlebars,procfile\&layout=compact\&langs_count=6\&theme=dracula)
