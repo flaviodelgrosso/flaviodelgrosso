@@ -13,7 +13,7 @@ One of my professional goals is to **increase my involvement in open source**. I
 ---
 
 🎼 **Beyond Tech:**
-My background as a **classical pianist** and **music educator** informs my approach to design and problem-solving — blending **technical precision** with **artistic sensitivity**.
+My background as a **classical pianist** and **music educator** deeply influences my approach to problem-solving and design, blending technical precision with artistic sensitivity.
 
 > *"I often think in music. I live my daydreams in music. I see my life in terms of music."*
 > — *Albert Einstein*
