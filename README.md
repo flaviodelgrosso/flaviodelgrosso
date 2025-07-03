@@ -32,7 +32,7 @@ This philosophy inspires both my personal and professional life, infusing **stru
 
 ### 🛠️ Tech Stack & Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,rust,react,nextjs,angular,nodejs,express,babel,bash,bootstrap,redux,bun,docker,electron,tauri,git,github,githubactions,gitlab,java,jest,jquery,linux,materialui,mongodb,mysql,reactivex,spring,tailwind,aws,gcp,vercel,vite,vitest,webpack,npm,pnpm\&theme=light)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,rust,go,react,nextjs,angular,nodejs,express,babel,bash,bootstrap,redux,bun,docker,electron,tauri,git,github,githubactions,gitlab,jest,jquery,linux,materialui,postgres,mongodb,reactivex,tailwind,aws,gcp,vercel,vite,vitest,webpack,npm,pnpm\&theme=light)
 
 ---
 
