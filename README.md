@@ -26,7 +26,7 @@ This philosophy inspires both my personal and professional life, infusing **stru
 
 * 🌍 Based in **Italy**
 * 🖥️ Personal website: [flaviodelgrosso.com](http://flaviodelgrosso.com)
-* 🧠 Currently diving deep into **Node.js** and **Rust** 🦀
+* 🧠 Currently diving deep into **Go** and **Rust** 🦀
 
 ---
 
