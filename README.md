@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Flavio Del Grosso
+# 👋 Hi! I'm Flavio
 
 ### 🎯 Senior Software Engineer
 
