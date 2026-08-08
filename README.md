@@ -21,7 +21,7 @@ This philosophy inspires both my personal and professional life, infusing **stru
 ### 📌 Quick Facts
 
 * 🌍 Based in **Italy**
-* 🖥️ Personal website: [flaviodelgrosso.com](http://flaviodelgrosso.com)
+* 🖥️ My website: [flaviodelgrosso.com](http://flaviodelgrosso.com)
 * 🧠 Currently diving deep into **Rust** 🦀
 
 ---
