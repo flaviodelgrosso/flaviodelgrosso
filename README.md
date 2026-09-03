@@ -12,7 +12,7 @@
 
 ### About Me
 
-I'm a Senior Software Engineer focused on web development, with experience in **Node.js**, **Rust**, and front-end technologies. My background also includes system architecture and leading engineering teams. I'm now expanding into **AI-native engineering** and enjoy learning new tools, improving my craft, and keeping up with changes in the field.
+I'm a Senior Software Engineer focused on web development, with experience in **TypeScript**, **Rust**, **Node.js**, and front-end technologies. My background also includes system architecture and leading engineering teams. I'm now expanding into **AI-native engineering** and enjoy learning new tools, improving my craft, and keeping up with changes in the field.
 
 I work best in collaborative, inclusive teams where people share knowledge, care about quality, and help each other improve. I value high standards, thoughtful engineering, and a strong sense of shared ownership — both as an individual contributor and as someone who enjoys guiding teams toward that same bar.
 
