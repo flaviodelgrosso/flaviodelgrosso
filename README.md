@@ -57,6 +57,14 @@ This philosophy inspires both my personal and professional life, infusing **stru
 <!-- <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 <!-- <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 
+<br/><br/>
+
+### ☕ Support My Work
+
+If you enjoy my open-source projects or find them useful, you can support me with a coffee!
+
+<a href="https://www.buymeacoffee.com/fdelgrosso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="60" width="217" /></a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
