@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Flavio%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:242424,100:DC2626&height=180&section=header&text=Hi,%20I'm%20Flavio%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://flaviodelgrosso.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Node.js+%7C+Rust+%7C+Front-end;Ex-classical+pianist+%F0%9F%8E%B9;Now+diving+into+AI-native+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer;Node.js+%7C+Rust+%7C+Front-end;Ex-classical+pianist+%F0%9F%8E%B9;Now+diving+into+AI-native+engineering" alt="Typing SVG" />
 </a>
 
 </div>
@@ -60,6 +60,6 @@ This philosophy inspires both my personal and professional life, infusing **stru
 
 <sub>If you enjoy my work or find my open-source projects useful, you can support me by buying me a coffee ☕ Thank you!</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:242424,100:DC2626&height=100&section=footer" width="100%"/>
 
 </div>
